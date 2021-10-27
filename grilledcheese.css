@@ -1,0 +1,9 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+* {
+    background-color:rgb(250, 211, 126);
+    color:rgb(255, 153, 0);
+}

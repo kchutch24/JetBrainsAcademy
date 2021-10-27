@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+}
+
+div {
+    color:cyan;
+}
+
+a:link {
+    color:deeppink
+}
+
+a:visited {
+    color:white
+}

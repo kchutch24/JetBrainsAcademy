@@ -1,0 +1,9 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+* {
+    background-color:lightgoldenrodyellow;
+    color:red;
+}
